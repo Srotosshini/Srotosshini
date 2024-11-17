@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="/github-metrics.svg" width="40%" style="vertical-align: top;">
+  :)
 </p>
 
 <p align="center">
