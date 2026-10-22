@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:A6E3F6,50:7CC5F0,100:4FB3E8&height=230&section=header&text=NekoNxtDoor&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=IM%20%2B%20CS%20%40%20NYUAD&descSize=20&descAlignY=64&animation=fadeIn&stroke=ffffff&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:A6E3F6,50:7CC5F0,100:4FB3E8&height=230&section=header&text=NekoNxtDoor&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=IM%20%2B%20CS%20%40%20NYUAD&descSize=20&descAlignY=60&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FB3E8&background=A6E3F600&center=true&vCenter=true&width=600&height=50&lines=welcome+to+my+little+corner+%E2%9C%A7;i+make+games%2C+interactives+%26+small+worlds;%E2%AD%90+a+summer+employment+%E2%AD%90)](https://git.io/typing-svg)
 
@@ -67,6 +67,6 @@
 
 <sub>&nbsp;ty for stopping by &nbsp;·&nbsp; (˶ᵔ ᵕ ᵔ˶) &nbsp;</sub>
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:4FB3E8,50:7CC5F0,100:A6E3F6&height=140&section=footer&animation=fadeIn&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:4FB3E8,50:7CC5F0,100:A6E3F6&height=160&section=footer&animation=fadeIn&reversal=true)
 
 </div>
