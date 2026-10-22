@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A6E3F6,100:7CC5F0&height=200&section=header&text=hi%20hi%20%E2%9C%A7&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Neko%20Nxt%20Door%20%E2%80%A2%20IM%20%2B%20CS%20%40%20NYUAD&descSize=18&descAlignY=62&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:A6E3F6,50:7CC5F0,100:4FB3E8&height=230&section=header&text=NekoNxtDoor&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=IM%20%2B%20CS%20%40%20NYUAD&descSize=20&descAlignY=64&animation=fadeIn&stroke=ffffff&strokeWidth=0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FB3E8&background=A6E3F600&center=true&vCenter=true&width=600&height=50&lines=welcome+to+my+little+corner+%E2%9C%A7;i+make+games%2C+interactives+%26+small+worlds;currently+chasing+ducklings+%F0%9F%A6%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FB3E8&background=A6E3F600&center=true&vCenter=true&width=600&height=50&lines=welcome+to+my+little+corner+%E2%9C%A7;i+make+games%2C+interactives+%26+small+worlds;%E2%AD%90+a+summer+employment+%E2%AD%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,10 +29,12 @@
   <img src="https://img.shields.io/badge/p5.js-CDE9FA?style=for-the-badge&logo=p5.js&logoColor=1a4d6b" alt="p5.js">
   <img src="https://img.shields.io/badge/Next.js-E0F2FE?style=for-the-badge&logo=next.js&logoColor=1a4d6b" alt="Next.js">
   <br>&nbsp;
-  <img src="https://img.shields.io/badge/Processing-A6E3F6?style=for-the-badge&logo=processingfoundation&logoColor=1a4d6b" alt="Processing">
-  <img src="https://img.shields.io/badge/TypeScript-BAE6FD?style=for-the-badge&logo=typescript&logoColor=1a4d6b" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-CDE9FA?style=for-the-badge&logo=python&logoColor=1a4d6b" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-E0F2FE?style=for-the-badge&logo=csharp&logoColor=1a4d6b" alt="C#">
+  <img src="https://img.shields.io/badge/ml5.js-A6E3F6?style=for-the-badge&logoColor=1a4d6b" alt="ml5.js">
+  <img src="https://img.shields.io/badge/Processing-BAE6FD?style=for-the-badge&logo=processingfoundation&logoColor=1a4d6b" alt="Processing">
+  <img src="https://img.shields.io/badge/TypeScript-CDE9FA?style=for-the-badge&logo=typescript&logoColor=1a4d6b" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-E0F2FE?style=for-the-badge&logo=python&logoColor=1a4d6b" alt="Python">
+  <br>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-A6E3F6?style=for-the-badge&logo=csharp&logoColor=1a4d6b" alt="C#">
 </p>
 
 <br>
@@ -65,6 +67,6 @@
 
 <sub>&nbsp;ty for stopping by &nbsp;·&nbsp; (˶ᵔ ᵕ ᵔ˶) &nbsp;</sub>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7CC5F0,100:A6E3F6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:4FB3E8,50:7CC5F0,100:A6E3F6&height=140&section=footer&animation=fadeIn&reversal=true)
 
 </div>
