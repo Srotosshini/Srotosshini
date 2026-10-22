@@ -16,8 +16,8 @@
 
 ### &nbsp;ദ്ദി(｡•̀ ,<)~✧　**about**
 
-> &nbsp;a soft blue blob who likes to make things that move, make sounds, &  make-believe.
-> interactive media + computer science kid at NYU Abu Dhabi. &nbsp;mostly found building little game-worlds, three.js dreams, &  the occasional duck.
+> &nbsp;a very hirable kid who likes to make things that move, make sounds, &  make-believe.
+> interactive media @NYU Abu Dhabi , Interactive Media Arts & Creativity and Innovation @NYU Shanghai. &nbsp;mostly found building little game-worlds( unity/ p5.js) , three.js artwork, &  the occasional serious stuff
 
 <br>
 
