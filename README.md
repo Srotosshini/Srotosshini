@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:A6E3F6,50:7CC5F0,100:4FB3E8&height=220&section=header&text=NekoNxtDoor&fontSize=68&fontColor=ffffff&fontAlignY=48&animation=twinkling)
 
-&nbsp;⋆˚｡⋆୨ ✦ ୧⋆˚｡⋆ &nbsp; **IM + CS @ NYUAD** &nbsp; ⋆˚｡⋆୨ ✦ ୧⋆˚｡⋆
+&nbsp;⋆˚｡⋆୨ ✦ ୧⋆˚｡⋆ &nbsp; **IM + Civil  Eng @ NYUAD** &nbsp; ⋆˚｡⋆୨ ✦ ୧⋆˚｡⋆
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FB3E8&background=A6E3F600&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A7+welcome+to+my+little+corner+%E2%9C%A7;%E2%9C%A6+i+make+games%2C+interactives+%26+small+worlds+%E2%9C%A6;%E2%AD%90+a+summer+employment+%E2%AD%90)](https://git.io/typing-svg)
 
@@ -20,8 +20,8 @@
 
 ### &nbsp;ദ്ദി(｡•̀ ,<)~✧　**about**
 
-> &nbsp;a very hirable kid who likes to make things that move, make sounds, &  make-believe.
-> interactive media @NYU Abu Dhabi , Interactive Media Arts & Creativity and Innovation @NYU Shanghai. &nbsp;mostly found building little game-worlds( unity/ p5.js) , three.js artwork, &  the occasional serious stuff
+> &nbsp;a very hirable girl who likes to make things that move, make sounds, &  make-believe.
+> interactive media @NYU Abu Dhabi , Interactive Media Arts & Creativity and Innovation @NYU Shanghai. &nbsp;mostly found building little game-worlds , interactive artwork, &  the occasional admin stuff
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-### &nbsp;⋆｡‧˚ʚ🐣ɞ˚‧｡⋆　**tiny live things**
+### &nbsp;⋆｡‧˚ʚ🐣ɞ˚‧｡⋆　**some live things**
 
 | | |
 |:-|:-|
